@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import streamlit as st
 import numpy as np
 import seaborn as sns
